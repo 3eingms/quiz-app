@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-weight: 300;
+    font-family: 'Ubuntu', sans-serif;
 }
 html{
     font-size: 62.5%;
@@ -25,13 +28,13 @@ html{
 }
 
 .inner-div h1{
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 400;
     margin: 1rem 0 4rem 0;
 }
 
 .inner-div li{
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-top: 1.5rem;
     list-style: none;
 }
